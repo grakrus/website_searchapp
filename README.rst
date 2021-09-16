@@ -12,3 +12,5 @@ Additional Resources
 --------------------
  - Documentation: http://sitesearchapp.com/odoo-installation-guide
  - Plans and Pricing: https://sitesearchapp.com/#ssapricing
+
++++++++++++++++++++++++++++++++++++++++++
